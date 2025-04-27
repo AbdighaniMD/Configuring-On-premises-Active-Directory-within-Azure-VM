@@ -1,8 +1,8 @@
-<p align="center">
+<center>
 
 ![AD](./Configuring%20On-premises%20Active%20Directory%20within%20Azure%20VMs/assets/Active-Directory.png)
 
-</p>
+</center>
 
 # On-premises Active Directory Deployed in the Cloud (Azure)
 Active Directory centrally manages thousands of user accounts in a single place (accounts, passwords and permissions) as well as manage devices on a large scale.
