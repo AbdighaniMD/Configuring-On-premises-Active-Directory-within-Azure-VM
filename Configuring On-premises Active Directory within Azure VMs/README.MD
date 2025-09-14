@@ -129,7 +129,7 @@ Continue with this and check Restart the destination server automatically if req
 <p>
 Continue the Active Directory configuration:
 
-You'll be prompted to set a Directory Services Restore Mode password. This password is rarely used, so any password will suffice. Proceed with the remaining configuration steps. The server will restart to complete the Active Directory installation, and you'll be logged out.
+You'll be prompted to set a Directory Services Restore Mode password. Proceed with the remaining configuration steps. The server will restart to complete the Active Directory installation, and you'll be logged out.
 
 - Restart and then log back into DC-1 as user: 
         `myADproject.com\Lab_Abdighani_DC`
