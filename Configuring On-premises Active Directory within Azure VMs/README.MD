@@ -169,8 +169,6 @@ User `abdighaniMD_admin` as your admin account from now on:
 <p>
 From the Azure Portal, set Client-1’s DNS settings to the DC’s Private IP address: [Done that above]
 
-From the Azure Portal, restart Client-1 [Already done]
-
 Login to Client-1 (Remote Desktop) as the original local admin [`Lab_Abdighani_Client`] and join it to the domain (computer will restart):
 </p>
 
